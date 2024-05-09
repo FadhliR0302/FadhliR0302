@@ -1,4 +1,5 @@
 # Fadhli Rahman
+<img src = "https://github.com/FadhliR0302/FadhliR0302/blob/9cf786539fe1ea2f0fbf24e7ee24e4d930160f4c/Fadhli%20Rahman.png">
 a student who is deepening his understanding and skills in the field of data analysis. have a high level of curiosity and want to deepen it.
 multitasking and likes to learn new things. have a high level of creativity to contribute, innovate and compete in the world of data science. 
 Active in project and campus activities.
