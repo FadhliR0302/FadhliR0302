@@ -8,6 +8,7 @@ Active in project and campus activities.
 - 👋 Hi, I’m @FadhliR0302
 - 👀 I’m interested in _machine learning_ and _data analys_
 - 📫 How to reach me [in linkedIn](https://www.linkedin.com/in/fadhli-rahman-434407195/)
+- ▶️ Visit my [youtube channel](https://youtube.com/@fadhlirahman8734?si=zLnzqD_DS-eXAx2B)
 - 🐍 The programming languages that I am currently studying are _Python, C++, dan Javasccript_
 
 <!---
